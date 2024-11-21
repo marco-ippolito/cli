@@ -2,7 +2,8 @@
   "name": "@herodevs/utility",
   "version": "0.0.1",
   "dependencies": {
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "@herodevs/core-types": "^0.0.1"
   },
   "type": "commonjs",
   "main": "./src/index.js",

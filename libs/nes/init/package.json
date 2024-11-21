@@ -2,7 +2,13 @@
   "name": "@herodevs/nes-init",
   "version": "0.0.1",
   "dependencies": {
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "@herodevs/core-types": "^0.0.1",
+    "@herodevs/utility": "^0.0.1",
+    "@apollo/client": "^3.10.1",
+    "@inquirer/prompts": "^5.0.2",
+    "yargs": "^17.2.1",
+    "ora": "^5.3.0"
   },
   "type": "commonjs",
   "main": "./src/index.js",
